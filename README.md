@@ -5,3 +5,6 @@
 -------------------------------------------------
 
 🇺🇸🌇 A demo application that includes a mechanism for detailed viewing of photos with the ability to scroll through them and zoom in/out.
+
+
+References: Яндекс.Маркет, Озон
